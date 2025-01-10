@@ -1,6 +1,5 @@
 .playing-container{
    text-align: center;
-
 }
 
 .text{
@@ -14,5 +13,21 @@
     padding: 10px 40px;
     width: 200px;
     background-color: rgb(206, 203, 198);
-    
+    border-radius: ;
+}
+
+.btn-input-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px;  
+}
+
+#btn-add{
+    padding: 10px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#input-name{
+    width: 290px;
 }
